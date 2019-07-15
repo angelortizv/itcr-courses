@@ -1,6 +1,7 @@
 package ce.itcr.dataStructures;
 
 import ce.itcr.dataStructures.graphs.GraphInterface;
+import ce.itcr.dataStructures.heap.HeapInterface;
 import ce.itcr.dataStructures.trees.AVLInterface;
 
 import java.util.Scanner;
@@ -23,7 +24,8 @@ public class Runner {
                 AVLInterface avlInterface = new AVLInterface();
                 avlInterface.AVLInterfaceRun();
             } else if(opt == 3){
-
+                HeapInterface heapInterface = new HeapInterface();
+                heapInterface.heapRun();
             }else if(opt == 4){
                 running = false;
             } else{
