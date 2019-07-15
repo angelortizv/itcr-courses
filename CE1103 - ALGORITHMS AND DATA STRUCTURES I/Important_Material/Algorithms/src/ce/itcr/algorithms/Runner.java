@@ -1,5 +1,7 @@
 package ce.itcr.algorithms;
 
+import ce.itcr.algorithms.sorting.SortingAlgorithmsInterface;
+
 import java.util.Scanner;
 
 public class Runner {
@@ -13,7 +15,8 @@ public class Runner {
             Scanner scanner = new Scanner(System.in);
             int opt = scanner.nextInt();
             if(opt == 1){
-
+                SortingAlgorithmsInterface sortingAlgorithmsInterface = new SortingAlgorithmsInterface();
+                sortingAlgorithmsInterface.sortingAlgorithmsRunner();
             } else if(opt == 2){
 
             } else if(opt == 3){
