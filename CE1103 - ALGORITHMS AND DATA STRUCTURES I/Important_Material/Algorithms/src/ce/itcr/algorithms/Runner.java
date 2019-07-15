@@ -1,5 +1,6 @@
 package ce.itcr.algorithms;
 
+import ce.itcr.algorithms.searching.SearchingAlgorithmsInterface;
 import ce.itcr.algorithms.sorting.SortingAlgorithmsInterface;
 
 import java.util.Scanner;
@@ -18,7 +19,8 @@ public class Runner {
                 SortingAlgorithmsInterface sortingAlgorithmsInterface = new SortingAlgorithmsInterface();
                 sortingAlgorithmsInterface.sortingAlgorithmsRunner();
             } else if(opt == 2){
-
+                SearchingAlgorithmsInterface searchingAlgorithmsInterface = new SearchingAlgorithmsInterface();
+                searchingAlgorithmsInterface.searchingAlgorithmsRunner();
             } else if(opt == 3){
                 running = false;
             } else{
