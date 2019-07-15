@@ -3,6 +3,7 @@ package ce.itcr.dataStructures;
 import java.util.Scanner;
 import ce.itcr.dataStructures.linkedList.LinkedListInterface;
 import ce.itcr.dataStructures.queue.QueueInterface;
+import ce.itcr.dataStructures.stack.StackInterface;
 
 public class Runner {
     public static void main(String[] args){
@@ -22,7 +23,8 @@ public class Runner {
                 QueueInterface qInterface = new QueueInterface();
                 qInterface.QueueRunner();
             } else if(opt == 3){
-
+                StackInterface sInterface = new StackInterface();
+                sInterface.StackRunner();
             } else if(opt == 4){
                 running = false;
             } else{
