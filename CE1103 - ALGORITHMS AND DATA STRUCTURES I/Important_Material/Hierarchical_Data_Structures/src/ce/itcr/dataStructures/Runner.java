@@ -1,5 +1,6 @@
 package ce.itcr.dataStructures;
 
+import ce.itcr.dataStructures.graphs.GraphInterface;
 import ce.itcr.dataStructures.trees.AVLInterface;
 
 import java.util.Scanner;
@@ -16,7 +17,8 @@ public class Runner {
             Scanner scanner = new Scanner(System.in);
             int opt = scanner.nextInt();
             if(opt == 1){
-
+                GraphInterface graphInterface = new GraphInterface();
+                graphInterface.interfaceRUn();
             } else if(opt == 2){
                 AVLInterface avlInterface = new AVLInterface();
                 avlInterface.AVLInterfaceRun();
