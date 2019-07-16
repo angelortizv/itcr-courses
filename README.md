@@ -1,6 +1,8 @@
 # itcr-courses | Computer Engineering
 Repository of my notes in the career of Computer Engineering. 
 
+For more information about the projects developed during the career, visit: [ce-itcr](https://github.com/ce-itcr)
+
 ## Overview
 
 ### Project structure
