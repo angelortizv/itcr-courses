@@ -1,3 +1,0 @@
-/home/angelortizv/Documents/Projects/itcr-courses/CE2103 - ALGORITHMS AND DATA STRUCTURES II/Important_Material/LinkedList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/angelortizv/Documents/Projects/itcr-courses/CE2103 - ALGORITHMS AND DATA STRUCTURES II/Important_Material/LinkedList/cmake-build-debug/CMakeFiles/LinkedList.dir
-/home/angelortizv/Documents/Projects/itcr-courses/CE2103 - ALGORITHMS AND DATA STRUCTURES II/Important_Material/LinkedList/cmake-build-debug/CMakeFiles/edit_cache.dir
