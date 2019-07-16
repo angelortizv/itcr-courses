@@ -17,7 +17,10 @@ For more information about the projects developed during the career, visit: [ce-
    - `root` Contains summaries of the material seen in class (pdf-files).
    - `Important_Material` Contains algorithms, and linear and hierarchical data structures.
    - `Resources` Useful information on programming: division of tasks, sockets, junit, mock objects and UML diagrams.
-   
+- `CE2103 - ALGORITHMS AND DATA STRUCTURES II/`
+   - `root` Contains summaries of the material seen in class (pdf-files).
+   - `Important_Material` Contains algorithms and util programming things in C++.
+   - `Resources` Useful information on programming: Memory Management, RAID, File System, Pointers, Rest API.
   
  ## Motivation
   
