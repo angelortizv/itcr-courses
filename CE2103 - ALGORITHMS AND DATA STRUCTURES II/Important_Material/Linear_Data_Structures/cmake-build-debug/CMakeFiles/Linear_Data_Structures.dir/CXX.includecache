@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+..//linkedList/LinkedListInterface.h
+iostream
+-
+List.h
+../linkedList/List.h
+
+..//queue/QueueInterface.h
+iostream
+-
+Queue.h
+../queue/Queue.h
+
+../linkedList/List.h
+iostream
+-
+string
+-
+
+../queue/Queue.h
+iostream
+-
+QueueItem.h
+../queue/QueueItem.h
+
+../queue/QueueItem.h
+iostream
+-
+cstring
+-
+
+/home/angelortizv/Documents/Projects/itcr-courses/CE2103 - ALGORITHMS AND DATA STRUCTURES II/Important_Material/Linear_Data_Structures/main.cpp
+iostream
+-
+linkedList/LinkedListInterface.h
+-
+queue/QueueInterface.h
+-
+

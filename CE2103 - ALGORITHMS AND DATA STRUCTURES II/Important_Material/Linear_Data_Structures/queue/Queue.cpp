@@ -1,9 +1,4 @@
-#include <iostream>
-#include "queue.h"
-#include "queueItem.h"
-
-using namespace std;
-
+#include "Queue.h"
 
 queue::queue(){
     queueItem* _pNext = _pHead = _pTail = 0;

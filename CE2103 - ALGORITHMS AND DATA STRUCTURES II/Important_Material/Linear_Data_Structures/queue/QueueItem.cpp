@@ -1,8 +1,4 @@
-#include <iostream>
-#include "queueItem.h"
-#include <cstring>
-
-using namespace std;
+#include "QueueItem.h"
 
 queueItem::queueItem( char *pData, int id) : _itemId(id) {
     strncpy( _data, pData, strlen( pData ) +1 );

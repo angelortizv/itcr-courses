@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Linear_Data_Structures"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/angelortizv/Documents/Projects/itcr-courses/CE2103 - ALGORITHMS AND DATA STRUCTURES II/Important_Material/Linear_Data_Structures/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/angelortizv/Documents/Projects/itcr-courses/CE2103\ -\ ALGORITHMS\ AND\ DATA\ STRUCTURES\ II/Important_Material/Linear_Data_Structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/angelortizv/Documents/Projects/itcr-courses/CE2103\ -\ ALGORITHMS\ AND\ DATA\ STRUCTURES\ II/Important_Material/Linear_Data_Structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/angelortizv/Documents/Projects/itcr-courses/CE2103\ -\ ALGORITHMS\ AND\ DATA\ STRUCTURES\ II/Important_Material/Linear_Data_Structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/angelortizv/Documents/Projects/itcr-courses/CE2103\ -\ ALGORITHMS\ AND\ DATA\ STRUCTURES\ II/Important_Material/Linear_Data_Structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/angelortizv/Documents/Projects/itcr-courses/CE2103 - ALGORITHMS AND DATA STRUCTURES II/Important_Material/Linear_Data_Structures/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/angelortizv/Documents/Projects/itcr-courses/CE2103\ -\ ALGORITHMS\ AND\ DATA\ STRUCTURES\ II/Important_Material/Linear_Data_Structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/angelortizv/Documents/Projects/itcr-courses/CE2103\ -\ ALGORITHMS\ AND\ DATA\ STRUCTURES\ II/Important_Material/Linear_Data_Structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/angelortizv/Documents/Projects/itcr-courses/CE2103\ -\ ALGORITHMS\ AND\ DATA\ STRUCTURES\ II/Important_Material/Linear_Data_Structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/angelortizv/Documents/Projects/itcr-courses/CE2103\ -\ ALGORITHMS\ AND\ DATA\ STRUCTURES\ II/Important_Material/Linear_Data_Structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Linear_Data_Structures">
+				<Option output="/home/angelortizv/Documents/Projects/itcr-courses/CE2103 - ALGORITHMS AND DATA STRUCTURES II/Important_Material/Linear_Data_Structures/cmake-build-debug/Linear_Data_Structures" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/angelortizv/Documents/Projects/itcr-courses/CE2103 - ALGORITHMS AND DATA STRUCTURES II/Important_Material/Linear_Data_Structures/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/angelortizv/Documents/Projects/itcr-courses/CE2103 - ALGORITHMS AND DATA STRUCTURES II/Important_Material/Linear_Data_Structures/cmake-build-debug"/>
+					<Add directory="/home/angelortizv/Documents/Projects/itcr-courses/CE2103 - ALGORITHMS AND DATA STRUCTURES II/Important_Material/Linear_Data_Structures"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/angelortizv/Documents/Projects/itcr-courses/CE2103\ -\ ALGORITHMS\ AND\ DATA\ STRUCTURES\ II/Important_Material/Linear_Data_Structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 Linear_Data_Structures"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/angelortizv/Documents/Projects/itcr-courses/CE2103\ -\ ALGORITHMS\ AND\ DATA\ STRUCTURES\ II/Important_Material/Linear_Data_Structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/angelortizv/Documents/Projects/itcr-courses/CE2103\ -\ ALGORITHMS\ AND\ DATA\ STRUCTURES\ II/Important_Material/Linear_Data_Structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/angelortizv/Documents/Projects/itcr-courses/CE2103\ -\ ALGORITHMS\ AND\ DATA\ STRUCTURES\ II/Important_Material/Linear_Data_Structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Linear_Data_Structures/fast">
+				<Option output="/home/angelortizv/Documents/Projects/itcr-courses/CE2103 - ALGORITHMS AND DATA STRUCTURES II/Important_Material/Linear_Data_Structures/cmake-build-debug/Linear_Data_Structures" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/angelortizv/Documents/Projects/itcr-courses/CE2103 - ALGORITHMS AND DATA STRUCTURES II/Important_Material/Linear_Data_Structures/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/angelortizv/Documents/Projects/itcr-courses/CE2103 - ALGORITHMS AND DATA STRUCTURES II/Important_Material/Linear_Data_Structures/cmake-build-debug"/>
+					<Add directory="/home/angelortizv/Documents/Projects/itcr-courses/CE2103 - ALGORITHMS AND DATA STRUCTURES II/Important_Material/Linear_Data_Structures"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/angelortizv/Documents/Projects/itcr-courses/CE2103\ -\ ALGORITHMS\ AND\ DATA\ STRUCTURES\ II/Important_Material/Linear_Data_Structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 Linear_Data_Structures/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/angelortizv/Documents/Projects/itcr-courses/CE2103\ -\ ALGORITHMS\ AND\ DATA\ STRUCTURES\ II/Important_Material/Linear_Data_Structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/angelortizv/Documents/Projects/itcr-courses/CE2103\ -\ ALGORITHMS\ AND\ DATA\ STRUCTURES\ II/Important_Material/Linear_Data_Structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/angelortizv/Documents/Projects/itcr-courses/CE2103\ -\ ALGORITHMS\ AND\ DATA\ STRUCTURES\ II/Important_Material/Linear_Data_Structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/angelortizv/Documents/Projects/itcr-courses/CE2103 - ALGORITHMS AND DATA STRUCTURES II/Important_Material/Linear_Data_Structures/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/angelortizv/Documents/Projects/itcr-courses/CE2103\ -\ ALGORITHMS\ AND\ DATA\ STRUCTURES\ II/Important_Material/Linear_Data_Structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/angelortizv/Documents/Projects/itcr-courses/CE2103\ -\ ALGORITHMS\ AND\ DATA\ STRUCTURES\ II/Important_Material/Linear_Data_Structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/angelortizv/Documents/Projects/itcr-courses/CE2103\ -\ ALGORITHMS\ AND\ DATA\ STRUCTURES\ II/Important_Material/Linear_Data_Structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/angelortizv/Documents/Projects/itcr-courses/CE2103\ -\ ALGORITHMS\ AND\ DATA\ STRUCTURES\ II/Important_Material/Linear_Data_Structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/angelortizv/Documents/Projects/itcr-courses/CE2103 - ALGORITHMS AND DATA STRUCTURES II/Important_Material/Linear_Data_Structures/linkedList/LinkedListInterface.cpp">
+			<Option target="Linear_Data_Structures"/>
+		</Unit>
+		<Unit filename="/home/angelortizv/Documents/Projects/itcr-courses/CE2103 - ALGORITHMS AND DATA STRUCTURES II/Important_Material/Linear_Data_Structures/linkedList/LinkedListInterface.h">
+			<Option target="Linear_Data_Structures"/>
+		</Unit>
+		<Unit filename="/home/angelortizv/Documents/Projects/itcr-courses/CE2103 - ALGORITHMS AND DATA STRUCTURES II/Important_Material/Linear_Data_Structures/linkedList/List.cpp">
+			<Option target="Linear_Data_Structures"/>
+		</Unit>
+		<Unit filename="/home/angelortizv/Documents/Projects/itcr-courses/CE2103 - ALGORITHMS AND DATA STRUCTURES II/Important_Material/Linear_Data_Structures/linkedList/List.h">
+			<Option target="Linear_Data_Structures"/>
+		</Unit>
+		<Unit filename="/home/angelortizv/Documents/Projects/itcr-courses/CE2103 - ALGORITHMS AND DATA STRUCTURES II/Important_Material/Linear_Data_Structures/main.cpp">
+			<Option target="Linear_Data_Structures"/>
+		</Unit>
+		<Unit filename="/home/angelortizv/Documents/Projects/itcr-courses/CE2103 - ALGORITHMS AND DATA STRUCTURES II/Important_Material/Linear_Data_Structures/queue/Queue.cpp">
+			<Option target="Linear_Data_Structures"/>
+		</Unit>
+		<Unit filename="/home/angelortizv/Documents/Projects/itcr-courses/CE2103 - ALGORITHMS AND DATA STRUCTURES II/Important_Material/Linear_Data_Structures/queue/Queue.h">
+			<Option target="Linear_Data_Structures"/>
+		</Unit>
+		<Unit filename="/home/angelortizv/Documents/Projects/itcr-courses/CE2103 - ALGORITHMS AND DATA STRUCTURES II/Important_Material/Linear_Data_Structures/queue/QueueInterface.cpp">
+			<Option target="Linear_Data_Structures"/>
+		</Unit>
+		<Unit filename="/home/angelortizv/Documents/Projects/itcr-courses/CE2103 - ALGORITHMS AND DATA STRUCTURES II/Important_Material/Linear_Data_Structures/queue/QueueInterface.h">
+			<Option target="Linear_Data_Structures"/>
+		</Unit>
+		<Unit filename="/home/angelortizv/Documents/Projects/itcr-courses/CE2103 - ALGORITHMS AND DATA STRUCTURES II/Important_Material/Linear_Data_Structures/queue/QueueItem.cpp">
+			<Option target="Linear_Data_Structures"/>
+		</Unit>
+		<Unit filename="/home/angelortizv/Documents/Projects/itcr-courses/CE2103 - ALGORITHMS AND DATA STRUCTURES II/Important_Material/Linear_Data_Structures/queue/QueueItem.h">
+			<Option target="Linear_Data_Structures"/>
+		</Unit>
+		<Unit filename="/home/angelortizv/Documents/Projects/itcr-courses/CE2103 - ALGORITHMS AND DATA STRUCTURES II/Important_Material/Linear_Data_Structures/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

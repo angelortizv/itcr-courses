@@ -1,15 +1,10 @@
-/**
- * @file queue.h
- * @version 1.0
- * @date 01/04/2019
- * @autor angelortizv
- * @title Métodos de Cola para Jugadores
- * @brief Incluye métodos básicos de cola como: enqueue, dequeue, print, removeItems
- */
-
 #ifndef PROYECTO1_SCRABBLE_queue_H
 #define PROYECTO1_SCRABBLE_queue_H
 
+#include <iostream>
+#include "QueueItem.h"
+
+using namespace std;
 
 class queueItem;
 
@@ -25,7 +20,6 @@ public:
     void removeItem();
     void print();
     void erase();
-
 };
 
 

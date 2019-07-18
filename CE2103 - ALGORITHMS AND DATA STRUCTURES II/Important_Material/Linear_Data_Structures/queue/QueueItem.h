@@ -1,15 +1,10 @@
-/**
- * @file queueItem.h
- * @version 1.0
- * @date 01/04/2019
- * @autor angelortizv
- * @title Item en Cola
- * @brief Adquiere atributos como el elemento de análisis y el siguiente en cola.
- */
-
 #ifndef PROYECTO1_SCRABBLE_queueItem_H
 #define PROYECTO1_SCRABBLE_queueItem_H
 
+#include <iostream>
+#include <cstring>
+
+using  namespace std;
 
 class Queue;
 
