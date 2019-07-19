@@ -11,6 +11,10 @@ For more information about the projects developed during the career, visit: [ce-
     This file.
 - `LICENSE`
     itcr-courses is licensed under the MIT License.
+- `CONTRIBUTING.md`
+    itcr-courses contribution guidelines.
+- `CODE_OF_CONDUCT.md`
+    Code of Conduct adapted from the Contributor Covenant.
 - `CE1101 - INTRODUCTION TO PROGRAMMING/`
     Contains examples of tail and stack recursion. 
 - `CE1103 - ALGORITHMS AND DATA STRUCTURES I/`
