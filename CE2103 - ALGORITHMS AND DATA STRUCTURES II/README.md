@@ -1,5 +1,9 @@
 # CE2103 - ALGORITHMS AND DATA STRUCTURES II
 
+### Course Brief
+
+This course complements the course of Algorithms and Data Structures I, expanding the data structures and the algorithms related to them. It emphasizes the design of algorithms and the analysis of these, to determine which are more efficient than others.
+
 ### Folder structure
 
 - `README.md`
