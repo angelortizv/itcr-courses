@@ -1,5 +1,10 @@
 # CE1103 - ALGORITHMS AND DATA STRUCTURES I
 
+### Course Brief
+
+This course complements the Introduction to Programming course and Programming Workshop through the study of linear, hierarchical and general purpose data structures. It emphasizes the design and analysis of algorithms that apply to the types of structures mentioned to determine which are more efficient than others.
+He also studies the paradigm of object-oriented programming with the support of the Java programming language.
+
 ### Folder structure
 
 - `README.md`
