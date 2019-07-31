@@ -1,6 +1,6 @@
 #|-------------------------------------------------------------------------------
 
- @file rackets-basics-02.rkt
+ @file racket-basics-02.rkt
  @version 1.0
  @date 28/07/2019
  @author angelortizv
