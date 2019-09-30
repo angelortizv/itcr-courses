@@ -1,7 +1,7 @@
 # itcr-courses | Computer Engineering
 Repository of my notes in the career of Computer Engineering. 
 
-For more information about the projects developed during the career, visit: [ce-itcr](https://github.com/ce-itcr)
+For more information about the projects developed during the career, visit: [ce-itcr:Github](https://github.com/ce-itcr) and [ce-itcr:WebPage](https://ce-itcr.github.io/)
 
 ## Overview
 
@@ -25,6 +25,15 @@ For more information about the projects developed during the career, visit: [ce-
    - `root` Contains summaries of the material seen in class (pdf-files).
    - `Important_Material` Contains algorithms and util programming things in C++.
    - `Resources` Useful information on programming: Memory Management, RAID, File System, Pointers, Rest API.
+- `CE3104 - LANGUAGES, COMPILERS AND INTERPRETERS/`
+   - `LANGUAJES` 
+        - `root` Contains summaries of the material seen in class (pdf-files).
+        - `Important_Material` Contains code examples of different programming languages. 
+        - `Resources` Useful information of programming languages. Books: The C Programming Language, Prolog: The programming Language, Introduction to programming with Scheme.
+   - `COMPILERS AND INTERPRETERS`
+        - `root` 
+        - `Important_Material` 
+        - `Resources` 
   
  ## Motivation
   
@@ -36,8 +45,9 @@ Always be grateful. Everything in life is neutral. It's you who gives every circ
 If you want to contribute to the project, first read [CONTRIBUTING.md](https://github.com/angelortizv/itcr-courses/blob/master/CONTRIBUTING.md).
 
 ## Acknowledgments
-* **Antonio Gonzalez Torres** - Professor of Computer Engineering Career - CE1101,CE1102
-* **Isaac Ramirez Herrera** - Professor of Computer Engineering Career - CE1103,CE2103
+* **Antonio Gonzalez Torres** - Professor of Computer Engineering Career - CE1101,CE1102 ; Introduction to Programming.
+* **Isaac Ramirez Herrera** - Professor of Computer Engineering Career - CE1103,CE2103 ; Algorithms and Data Structures.
+* **Marco Rivera Meneses** - Professor of Computer Engineering Carerr - CE3104 ; Module: Programming Languages.
 
 ## Authors
 * **Angelo Ortiz Vega** - *developer* - [angelortizv](https://github.com/angelortizv)
