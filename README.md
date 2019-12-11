@@ -1,7 +1,7 @@
 # itcr-courses | Computer Engineering
 Repository of my notes in the career of Computer Engineering. 
 
-For more information about the projects developed during the career, visit: [ce-itcr:Github](https://github.com/ce-itcr) and [ce-itcr:WebPage](https://ce-itcr.github.io/)
+For more information about the projects developed during the career, visit: [ce-itcr](https://github.com/ce-itcr) and [projects overview](https://ce-itcr.github.io/).
 
 ## Overview
 
@@ -31,9 +31,9 @@ For more information about the projects developed during the career, visit: [ce-
         - `Important_Material` Contains code examples of different programming languages. 
         - `Resources` Useful information of programming languages. Books: The C Programming Language, Prolog: The programming Language, Introduction to programming with Scheme.
    - `COMPILERS AND INTERPRETERS`
-        - `root` 
-        - `Important_Material` 
-        - `Resources` 
+        - `root` Contains summaries of the material seen in class (pdf-files) belong to Marco Hernández Vasquez.
+        - `Important_Material` Contains examples of the different phases of a compiler 
+        - `Resources` Useful information in compiler develepoment, Lex & Yacc, Compilers papers
   
  ## Motivation
   
@@ -48,6 +48,7 @@ If you want to contribute to the project, first read [CONTRIBUTING.md](https://g
 * **Antonio Gonzalez Torres** - Professor of Computer Engineering Career - CE1101,CE1102 ; Introduction to Programming.
 * **Isaac Ramirez Herrera** - Professor of Computer Engineering Career - CE1103,CE2103 ; Algorithms and Data Structures.
 * **Marco Rivera Meneses** - Professor of Computer Engineering Carerr - CE3104 ; Module: Programming Languages.
+* **Marco Hernández Vasquez** - Professor of Computer Engineering Carerr - CE3104 ; Module: Compilers and Interpreters.
 
 ## Authors
 * **Angelo Ortiz Vega** - *developer* - [angelortizv](https://github.com/angelortizv)
