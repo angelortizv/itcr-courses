@@ -12,8 +12,20 @@ This course introduces the four main programming paradigms and their most repres
     This file.
     
 - `Important_Material/`
+    - `Workshops/`
+      It contains the exercises carried out as workshops of the course.
+    - `prolog/`
+      Contains the basic functions of prolog.
+    - `racket/`
+      Contains the basic functions of racket.
     
 - `Resources/`
     Extra useful files for the course.
-    Themes:
+    Themes: C, prolog and scheme books
     
+- `01.Programming_Languages.pdf`
+    Explain the basic actions and axioms of programming languages.
+- `02.Functional_Programming.pdf`
+    In summary he quotes the basic functions of the Scheme language.
+- `03.Logical_Programming.pdf`
+    In summary, he cites the basic functions of logical language, expert systems and context-free grammars.
