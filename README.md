@@ -34,7 +34,10 @@ For more information about the projects developed during the career, visit: [ce-
         - `root` Contains summaries of the material seen in class (pdf-files) belong to Marco Hernández Vasquez.
         - `Important_Material` Contains examples of the different phases of a compiler 
         - `Resources` Useful information in compiler develepoment, Lex & Yacc, Compilers papers
-  
+- `CE3103 - DATABASES/`
+   - `root` Contains summaries of the material seen in class (pdf-files).
+   - `Workshops` Contains summaries of workshops, includes topics such as Distributed Databases, Big Data, Data Analysis, and DBaaS.
+   
  ## Motivation
   
 The principal purpose of this repository is record some of the data of the courses by the computer engineering degree program of the [ITCR](https://www.tec.ac.cr/). 
@@ -47,8 +50,10 @@ If you want to contribute to the project, first read [CONTRIBUTING.md](https://g
 ## Acknowledgments
 * **Antonio Gonzalez Torres** - Professor of Computer Engineering Career - CE1101,CE1102 ; Introduction to Programming.
 * **Isaac Ramirez Herrera** - Professor of Computer Engineering Career - CE1103,CE2103 ; Algorithms and Data Structures.
-* **Marco Rivera Meneses** - Professor of Computer Engineering Carerr - CE3104 ; Module: Programming Languages.
-* **Marco Hernández Vasquez** - Professor of Computer Engineering Carerr - CE3104 ; Module: Compilers and Interpreters.
+* **Marco Rivera Meneses** - Professor of Computer Engineering Career - CE3104 ; Module: Programming Languages.
+* **Marco Hernández Vasquez** - Professor of Computer Engineering Career - CE3104 ; Module: Compilers and Interpreters.
+* **Luis Diego Noguera Mena** - Professor of Computer Engineering Career - CE3101 ; Databases.
+
 
 ## Authors
 * **Angelo Ortiz Vega** - *developer* - [angelortizv](https://github.com/angelortizv)
