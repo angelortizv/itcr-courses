@@ -37,6 +37,9 @@ For more information about the projects developed during the career, visit: [ce-
 - `CE3103 - DATABASES/`
    - `root` Contains summaries of the material seen in class (pdf-files).
    - `Workshops` Contains summaries of workshops, includes topics such as Distributed Databases, Big Data, Data Analysis, and DBaaS.
+- `CE4101 - SOFTWARE SPECIFICATION AND DESIGN/`
+   - `root` Contains summaries of the material seen in class (pdf-files).
+   - `Resources` Contains important readings / material with structure per week.
    
  ## Motivation
   
@@ -53,6 +56,7 @@ If you want to contribute to the project, first read [CONTRIBUTING.md](https://g
 * **Marco Rivera Meneses** - Professor of Computer Engineering Career - CE3104 ; Module: Programming Languages.
 * **Marco Hernández Vasquez** - Professor of Computer Engineering Career - CE3104 ; Module: Compilers and Interpreters.
 * **Luis Diego Noguera Mena** - Professor of Computer Engineering Career - CE3101 ; Databases.
+* **Daniel Madriz Huertas** - Professor of Computer Engineering Career - CE4101 ; Software Specification and Design.
 
 
 ## Authors
